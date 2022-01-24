@@ -1,0 +1,29 @@
+
+
+.jumbotron{
+	margin-top: 100px
+}
+
+.bg1{
+	background-image: url("img/mie-dog-dog-ala-burjo-jogja-foto-resep-utama-removebg-preview.png");
+	background-size: 500px;
+	background-repeat: no-repeat;
+	padding: 100px
+}
+
+p#head.text-wrap.text-lg-start.fs-5.mt-5{
+	margin-top: 700px
+}
+
+a .nav-link {
+	color: #73c5ff
+}
+
+#services {
+	margin-top: 25px;
+	margin-bottom: 80px;
+}
+
+#contact{
+	margin-top: 50px;
+}
